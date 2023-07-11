@@ -3,7 +3,7 @@
 This is AutoVerse! A Cars Showcase web project developed using React, NextJS 13, Typescript, and Tailwind CSS. The website aims to provide an immersive experience for users interested in exploring various car models.
 
 ## Quick Demo
-![autoverse_project-2](https://github.com/alexisnovas/autoverse-cars-showcase/assets/47201459/5da791e1-f754-46da-899e-588e53183179)
+![raw gif](https://github.com/alexisnovas/autoverse-cars-showcase/assets/47201459/c46442b6-23a4-4acd-a6d1-ee9f24b86345)
 
 ## Features
 
